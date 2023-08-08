@@ -1,6 +1,3 @@
-![image](https://github.com/shruthika77/shruthika77/assets/139683605/706c19a5-1472-4cfd-b4cb-1238dc2e9fd4)
-
-
 ### Helloooo there 👋
 
 <!--
@@ -10,8 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm SHRUTHIKA</h1>
 <h3 align="center">I AM A 3RD YEAR AI&DS STUDENT, I AM JUST HERE TO LEARN ABOUT PYTHON, WEB DEVELOPMENT,DATA ANALYSIS ETC...</h3>
-<image align="right" width="400" src="https://github.com/shruthika77/shruthika77/blob/main/ai-humanoid-neuron-brain-hgjbc1m4cmk0tgdx.gif"></image>
-
+<image align="right" width="400" src="https://github.com/shruthika77/shruthika77/blob/main/Face%20ID%20glitch%20effect.gif">
 - 🌱 I’m currently learning **-python**
 
 - 📫 How to reach me **shruthikac7@gmail.com**
