@@ -1,4 +1,5 @@
-"![image](https://github.com/shruthika77/shruthika77/assets/139683605/5588ddeb-4778-4716-8354-9ed8659ca752"
+![image](https://github.com/shruthika77/shruthika77/assets/139683605/706c19a5-1472-4cfd-b4cb-1238dc2e9fd4)
+
 
 ### Helloooo there 👋
 
