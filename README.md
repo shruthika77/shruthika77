@@ -1,3 +1,4 @@
+![logo](https://github.com/shruthika77/shruthika77/blob/main/ai-humanoid-neuron-brain-hgjbc1m4cmk0tgdx.gif)
 ### Helloooo there 👋
 
 <!--
