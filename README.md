@@ -7,7 +7,7 @@
 
 
 -->
-<img align="center" alt="coding" width="600" src="https://gifdb.com/images/high/ai-humanoid-neuron-brain-hgjbc1m4cmk0tgdx.gif">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/ai-humanoid-neuron-brain-hgjbc1m4cmk0tgdx.gif">
 <h1 align="center">Hi 👋, I'm SHRUTHIKA</h1>
 <h3 align="center">I AM A 3RD YEAR AI&DS STUDENT, I AM JUST HERE TO LEARN ABOUT PYTHON, WEB DEVELOPMENT,DATA ANALYSIS ETC...</h3>
 
