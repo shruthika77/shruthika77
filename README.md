@@ -28,8 +28,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruthika77&" alt="shruthika77" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruthika77&" alt="shruthika77" /></p>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/ai-humanoid-neuron-brain-hgjbc1m4cmk0tgdx.gif">
+
+
+
 
 
 
