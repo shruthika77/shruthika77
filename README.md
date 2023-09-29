@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm SHRUTHIKA</h1>
-<h3 align="center">I AM A 3RD YEAR AI&DS STUDENT, I AM JUST HERE TO LEARN ABOUT PYTHON, WEB DEVELOPMENT,DATA ANALYSIS ETC...</h3>
+<h3 align="center">I AM A PASSIONATE LEARNER FROM INDIA.</h3>
 <image align="right" width="400" src="https://github.com/shruthika77/shruthika77/blob/main/Face%20ID%20glitch%20effect.gif">
 - 🌱 I’m currently learning **-python**
 
